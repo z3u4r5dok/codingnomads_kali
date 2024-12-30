@@ -5,3 +5,6 @@ mystery = None
 mystery = "Sommerfeld"
 mystery = 137
 mystery = mystery + 0.0
+
+''' it is a <class 'float'> '''
+
