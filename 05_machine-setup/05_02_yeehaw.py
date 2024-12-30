@@ -5,3 +5,6 @@
 # 	Coding here I come!
 
 
+print ("I'm a programmer now""\n"
+	"Yeehaw!""\n"
+	"Coding here I come!")

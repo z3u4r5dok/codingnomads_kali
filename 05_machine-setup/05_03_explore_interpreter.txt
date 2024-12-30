@@ -7,3 +7,14 @@ Explore the interpreter:
 - Use the `help()` function to explore what you can do with the interpreter.
   - For example execute `help('print')`.
   - Press `q` to exit.
+
+# Print("Leave out a quotation)
+# SyntaxError: Unterminated string literal exit code 1
+# The message is helpful, it provide us inidcation where the error is 
+# and how to fix it.
+
+#help(print)
+# Provides help a menu of information for the print fucntion.
+
+ 
+
