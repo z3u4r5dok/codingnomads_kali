@@ -6,3 +6,11 @@
 # You can also add real Python code after learning the necessary concepts.
 # For now, just practice breaking larger tasks into smaller steps
 # and writing out your thoughts in pseudocode.
+
+# I'd like to be able to fix all of my pictures more efficiently
+# Automating this activity will save me a lot of time
+
+# Create a code to organize all photos at once
+# Automate the order and remove duplicates
+# sort them by date and place them in just one place
+# use the script for future processes.
